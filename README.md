@@ -161,9 +161,10 @@ npm start
 This launches the React development server on http://localhost:3000.
 
 ## 6. Testing
-The testing is detailed in this video
+The testing is detailed in this [video](https://drive.google.com/drive/folders/1u6SGrIFiUK3GiBqDty9rzhrnGEFC4NVq?usp=sharing)
+This is the link: https://drive.google.com/drive/folders/1u6SGrIFiUK3GiBqDty9rzhrnGEFC4NVq?usp=sharing
 
-Notes: there is a mild bug in the ``navigate`` call to the form the ``Login`` to the ``tasks``.
+Notes: there is a mild bug in the ``navigate`` call form the ``Login`` to the ``tasks``. It takes a while and as observed in the video, I had to reload the page to navigate on login.
 
 
 ## 7. Salary Expectations
